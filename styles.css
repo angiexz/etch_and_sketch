@@ -1,0 +1,33 @@
+body{
+    background-color:#F5F5F5;
+    font-family:'Courier New', Courier, monospace;
+}
+.Input{
+    padding-top:30px;
+    padding-bottom:30px;
+}
+.Input_box{
+    padding-bottom:30px;
+    margin:auto;
+}
+#big_container{
+    margin:auto;
+    padding: 5px;
+    width: 960px;
+    height: 960px;
+    border-style: solid;
+    border-color: black;
+    display:flex;
+    flex-wrap:wrap;
+    align-self: center;
+}
+#square{
+    outline:solid black;
+    flex-wrap: wrap;
+    width:60px;
+    height:60px;
+    padding:0;
+}
+h1{
+    text-align:center;
+}
